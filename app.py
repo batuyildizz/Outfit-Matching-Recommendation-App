@@ -20,7 +20,7 @@ with st.expander("About"):
 
     GitHub: [github.com/batuyildizz](https://github.com/batuyildizz)
     """)
-    st.image("pictures/picture.png", caption="About Image")  
+    st.image("pictures/all.png", caption="About Image")  
 
 
 # Load the CSV file
